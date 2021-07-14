@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>341-3414499_brand-logo-mcdonalds-logo-circle-clipart (1).png</file>
+        <file>video/sample.avi</file>
+        <file>images/image1.jpg</file>
+        <file>Page3Form.ui.qml</file>
+        <file>Page4Form.ui.qml</file>
+        <file>Page5Form.ui.qml</file>
+        <file>Page6Form.ui.qml</file>
+        <file>Page7Form.ui.qml</file>
+        <file>images/icon7.png</file>
+        <file>images/1.jpg</file>
+        <file>images/2.jpg</file>
+        <file>images/sms.png</file>
+        <file>images/2-removebg-preview.png</file>
+        <file>images/Frame 45.png</file>
+        <file>images/Frame 46.png</file>
+        <file>Lab3_dop.ui.qml</file>
+        <file>Lab1_dop.ui.qml</file>
+        <file>Page8Form.ui.qml</file>
+    </qresource>
+</RCC>
